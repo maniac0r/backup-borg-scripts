@@ -1,0 +1,6 @@
+Subject: BorgBackup report
+From: BORG <borg@example.com>
+To: admin@example.com
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
