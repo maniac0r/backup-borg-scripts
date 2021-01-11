@@ -1,0 +1,7 @@
+/proc/
+/run/
+/sys/
+/media/
+/lost+found/
+/tmp/
+/var/cache/netdata/
